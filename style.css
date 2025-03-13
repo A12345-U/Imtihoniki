@@ -1,0 +1,79 @@
+.a{
+    background-color: aqua;
+    border: 1px solid red;
+    text-align: center;
+    border-radius: 15px;
+    color: blue;
+}
+.b{
+    color: brown;
+}
+.c{
+    color: green;
+}
+.d{
+    text-align: center;
+    background-color: yellow;
+}
+.e{
+    text-align: center;
+}
+.f{
+    text-align: center;
+    background-color: yellow;
+}
+.g{
+    width: 1500px;
+    height: 30px;
+}
+.h{
+    color: brown;
+}
+.i{
+    color: brown;
+}
+.j{
+    background-color: rgb(96, 122, 255);
+    color: white;
+    width: 200px;
+    height: 30px;
+}
+.k{
+    text-align: center;
+    background-color: yellow;
+}
+.l{
+    color: white;
+    background-color: green;
+    border: 2px solid black;
+}
+.m{
+    color: white;
+    background-color: blue;
+    border: 2px solid black;
+}
+.o{
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+}
+.p{
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+}
+.qqq{
+text-align: center;
+    width: 1500px;
+    border: 2px solid black;
+    margin: 0px;
+    border-collapse: collapse;
+}
+.aaa{
+    width: 1500px;
+     background-color: black;
+     text-align: center;
+}
+.www{
+    margin: 0px auto;
+}
